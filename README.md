@@ -1,2 +1,2 @@
-# crawl-ebooklib
-Data crawling from e-book library website
+# Crawl-ebooklib
+Technologies: Scrapy, HTML, MongoDB
